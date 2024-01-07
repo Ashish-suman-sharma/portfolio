@@ -1,7 +1,7 @@
-# ashish suman
-Beautiful HTML,CSS and Bootstrap Portfolio
+# Ashish suman
+Beautiful HTML,CSS personal  Portfolio
 
-# Features
+## Features
 - Fully Responsive
 - Mobile Navigations
 - Animated elements on scroll
@@ -10,9 +10,8 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 - and more ..
 
 
-# Credit
+## Credit
 - https://fonts.google.com/
 - https://line-awesome.com/
 - https://unsplash.com/
-- https://michalsnik.github.io/aos/
 
